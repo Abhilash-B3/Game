@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: hotpink;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.app {
+  margin-top: 20px;
+}
